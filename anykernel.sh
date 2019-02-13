@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=baby unicorn kernel v1.0 based on Sphinx
+kernel.string=Hydrogen-1.1
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
